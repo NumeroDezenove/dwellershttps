@@ -1,4 +1,4 @@
-[
+{
 	Owner = {
 		Text = "Owner",
 		Color = Color3.fromRGB(234, 255, 0),
@@ -9,4 +9,4 @@
 		Color = Color3.fromRGB(255, 0, 0),
 		Users = {"Lol"}
 	},
-]
+}
