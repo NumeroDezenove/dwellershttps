@@ -1,12 +1,12 @@
 {
-	Owner = {
-		Text = "Owner",
-		Color = Color3.fromRGB(234, 255, 0),
-		Users = {"Nineteen_DEV"}
+	"Owner": {
+		"Text": "Owner",
+		"Color": [234, 255, 0],
+		"Users": ["Nineteen_DEV"]
 	},
-	Youtuber = {
-		Text = "Youtuber",
-		Color = Color3.fromRGB(255, 0, 0),
-		Users = {"Lol"}
-	},
+	"Youtuber": {
+		"Text": "Youtuber",
+		"Color": [255, 0, 0],
+		"Users": ["Lol"]
+	}
 }
